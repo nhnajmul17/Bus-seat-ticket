@@ -1,0 +1,19 @@
+.booking-seat p{
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+.seat-available{
+    background-color: rgb(184, 230, 184);
+}
+.booked{
+    background-color: yellow;
+}
+
+.seat-occupied{
+    background-color: rgba(245, 174, 174);
+}
+
+
+
